@@ -1,0 +1,26 @@
+/* .getInMiddle{
+    padding: 100px;
+}
+
+.InputSize{
+    width: 50%;
+} */
+
+.getInMiddle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 10%;
+}
+#form-structure{
+    border: solid 2px lightblue;
+    padding: 5%;
+}
+.InputSize{
+    width: 100%;
+}
+.font-style{
+    font-family: sans-serif;
+    color: brown;
+}
